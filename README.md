@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+![JXA0](https://user-images.githubusercontent.com/110626940/204113164-09329248-648d-44e9-92ca-393142159c9e.gif)
 
 ```javascript
 const sara = {
