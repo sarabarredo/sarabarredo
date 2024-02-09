@@ -11,4 +11,4 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarabarredo&show_icons=true&locale=en&layout=compact" alt="sarabarredo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarabarredo&" alt="sarabarredo" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarabarredo&" alt="sarabarredo" /></p>
