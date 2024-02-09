@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, soy Sara!</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">Desarrolladora Junior</h3>
 
 <h3 align="center">Encuéntrame en:</h3>
 <p align="center">
