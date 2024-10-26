@@ -8,8 +8,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Metrics
+      - name: Generate Metrics
+        id: metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           template: terminal
+      - name: Upload Metrics Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: metrics
+          path: ./metrics.svg
+
