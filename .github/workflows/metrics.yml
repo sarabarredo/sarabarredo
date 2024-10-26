@@ -1,0 +1,13 @@
+name: Metrics
+on:
+  schedule: 
+    - cron: "0 0 * * *"  # Actualiza las métricas diariamente
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: terminal
+          config_timezone: "Europe/Madrid"
